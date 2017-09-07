@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "BIG ANT .data.unityweb",
+"asmCodeUrl": "BIG ANT .asm.code.unityweb",
+"asmMemoryUrl": "BIG ANT .asm.memory.unityweb",
+"asmFrameworkUrl": "BIG ANT .asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/R PLUS SEVEN HW.unity
+  isLoaded: 1
+  isActive: 1
